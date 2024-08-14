@@ -1,26 +1,24 @@
 modLoader = "kotlinforforge"
 
 loaderVersion = "[4,)" # the loader is kotlin for forge
-license = "{license}"
+license = "AGPL-3.0"
 issueTrackerURL = "https://github.com/{githubUser}/{githubRepo}/issues"
 
 [[mods]]
-modId = "modid"
+modId = "petphraseplus2"
 version = "1.0.0"
-displayName = "ModName"
-authors = "{author}"
-description = '''
-ModDescription
-'''
-updateJSONURL="https://raw.githubusercontent.com/{githubUser}/{githubRepo}/main/updates.json"
-logoFile="icon.png"
-[[dependencies.modid]]
+displayName = "PetPhrasePlus2"
+authors = "WolfGenerals"
+description = ""
+updateJSONURL="https://raw.githubusercontent.com/WolfGenerals/PetPhrasePlus2/main/updates.json"
+logoFile="assets/petphraseplus2/icon.png"
+[[dependencies.petphraseplus2]]
 modId = "forge"
 mandatory = true
 versionRange = "[47,)"
 ordering = "NONE"
 side = "CLIENT"
-[[dependencies.modid]]
+[[dependencies.petphraseplus2]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.20.1]"

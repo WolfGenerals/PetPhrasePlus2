@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.petphraseplus2.title": "Aim Assistance Configuration",
+  "text.autoconfig.petphraseplus2.option.config": "Configuration",
+  "text.autoconfig.petphraseplus2.option.config.doubleField": "doubleField description",
+  "text.autoconfig.petphraseplus2.option.config.booleanField": "booleanField description",
+  "text.autoconfig.petphraseplus2.option.config.longField":  "longField description"
+}
