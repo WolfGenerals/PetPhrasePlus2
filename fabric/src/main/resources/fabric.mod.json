@@ -1,35 +1,35 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "petphraseplus2",
   "version": "${version}",
 
-  "name": "modid",
-  "description": "ModDescription",
+  "name": "PetPhrasePlus2",
+  "description": "nya~",
   "authors": [
-    "{author}"
+    "WolfGenerals"
   ],
   "contact": {
-    "homepage": "https://github.com/{githubUser}/{githubRepo}/issues",
-    "sources": "https://github.com/{githubUser}/{githubRepo}"
+    "homepage": "https://github.com/WolfGenerals/PetPhrasePlus2/issues",
+    "sources": "https://github.com/WolfGenerals/PetPhrasePlus2"
   },
 
-  "license": "{license}",
-  "icon": "assets/modid/icon.png",
+  "license": "AGPL-3.0",
+  "icon": "assets/petphraseplus2/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
       {
         "adapter": "kotlin",
-        "value": "com.example.modid.fabric.ModName"
+        "value": "top.wolfgenerals.petphraseplus2.fabric.PetPhrasePlus"
       }
     ],
     "modmenu": [
-      "com.example.modid.fabric.config.ModMenu"
+      "top.wolfgenerals.petphraseplus2.fabric.config.ModMenu"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "petphraseplus2.mixins.json"
   ],
 
   "depends": {

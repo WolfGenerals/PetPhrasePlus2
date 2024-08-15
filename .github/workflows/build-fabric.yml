@@ -11,7 +11,7 @@ on:
       - 'core/**'
       - 'fabric/**'
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
     paths:
       - .github/workflows/build-fabric.yml
       - build.gradle.kts

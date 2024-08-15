@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.petphraseplus2.title": "口癖Plus 2 配置",
+  "text.autoconfig.petphraseplus2.option.generalConfig.modifyMessage": "修改消息",
+  "text.autoconfig.petphraseplus2.option.rules": "规则",
+  "text.autoconfig.petphraseplus2.option.Rule": "",
+  "text.autoconfig.petphraseplus2.option.Rule.enable": "启用",
+  "text.autoconfig.petphraseplus2.option.Rule.regex": "正则表达式",
+  "text.autoconfig.petphraseplus2.option.Rule.template": "模板"
+}
