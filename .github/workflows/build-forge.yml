@@ -11,7 +11,7 @@ on:
       - 'core/**'
       - 'forge/**'
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
     paths:
       - .github/workflows/build-forge.yml
       - build.gradle.kts
