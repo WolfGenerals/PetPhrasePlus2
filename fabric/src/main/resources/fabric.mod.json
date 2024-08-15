@@ -21,7 +21,7 @@
     "main": [
       {
         "adapter": "kotlin",
-        "value": "top.wolfgenerals.petphraseplus2.fabric.ModName"
+        "value": "top.wolfgenerals.petphraseplus2.fabric.PetPhrasePlus"
       }
     ],
     "modmenu": [

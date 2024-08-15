@@ -10,6 +10,6 @@ import net.fabricmc.api.Environment
 class ModMenu : ModMenuApi {
     override fun getModConfigScreenFactory(): ConfigScreenFactory<*> =
         ConfigScreenFactory { parent ->
-            AutoConfig.getConfigScreen(ModConfig::class.java, parent).get()
+            AutoConfig.getConfigScreen(FabricConfig::class.java, parent).get()
         }
 }

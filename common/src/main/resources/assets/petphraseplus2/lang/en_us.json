@@ -1,7 +1,9 @@
 {
-  "text.autoconfig.petphraseplus2.title": "Aim Assistance Configuration",
-  "text.autoconfig.petphraseplus2.option.config": "Configuration",
-  "text.autoconfig.petphraseplus2.option.config.doubleField": "doubleField description",
-  "text.autoconfig.petphraseplus2.option.config.booleanField": "booleanField description",
-  "text.autoconfig.petphraseplus2.option.config.longField":  "longField description"
+  "text.autoconfig.petphraseplus2.title": "Pet Phrase Plus 2 Configration",
+  "text.autoconfig.petphraseplus2.option.generalConfig.modifyMessage": "Modify Message",
+  "text.autoconfig.petphraseplus2.option.rules": "Rules",
+  "text.autoconfig.petphraseplus2.option.Rule": "",
+  "text.autoconfig.petphraseplus2.option.Rule.enable": "Enable",
+  "text.autoconfig.petphraseplus2.option.Rule.regex": "Regular Expression",
+  "text.autoconfig.petphraseplus2.option.Rule.template": "Template"
 }
